@@ -8,7 +8,7 @@ client.on('ready', () => {
 
 client.on('message', message => {
     if (message.content === 'Hey') {
-    	message.reply('welkom in mijn server <3');
+    	message.reply('Welcome to my server❤');
   	}
 });
 
